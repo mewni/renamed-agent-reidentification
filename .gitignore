@@ -1,0 +1,17 @@
+# AI Village data and results must not be committed (dataset terms)
+data/
+results/
+swarm-alignment/
+*.jsonl
+*.jsonl.gz
+*.parquet
+
+# Secrets
+.env
+*.token
+
+# Python and notebooks
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store

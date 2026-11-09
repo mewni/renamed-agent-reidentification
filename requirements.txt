@@ -1,0 +1,7 @@
+# Google Colab already provides these; install them only to run outside Colab.
+numpy>=1.26
+pandas>=2.2
+scipy>=1.11
+scikit-learn>=1.4
+matplotlib>=3.8
+huggingface_hub>=0.23

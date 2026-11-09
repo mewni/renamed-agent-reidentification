@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this code or build on these results, please cite the report below."
+title: "Behavioural Re-identification of Renamed LLM Agents: A Leakage-Controlled Evaluation on Real Multi-Agent Logs"
+type: software
+authors:
+  - family-names: Alahakoon
+    given-names: Mewni
+    affiliation: Independent Researcher
+date-released: 2026-11-08
+license: MIT
+keywords:
+  - AI safety
+  - multi-agent systems
+  - LLM agents
+  - agent identity
+  - authorship attribution
+  - stylometry
+preferred-citation:
+  type: report
+  title: "Behavioural Re-identification of Renamed LLM Agents: A Leakage-Controlled Evaluation on Real Multi-Agent Logs"
+  authors:
+    - family-names: Alahakoon
+      given-names: Mewni
+      affiliation: Independent Researcher
+  year: 2026
+  month: 11
+  notes: "Research report, Swarm Alignment Hackathon (Apart Research and AI Alignment Foundation, in partnership with AE Studio)"
